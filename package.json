@@ -1,0 +1,28 @@
+{
+  "name": "facebook-chatbot-tutorial",
+  "version": "1.0.0",
+  "description": "facebook-chatbot-tutorial",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "lint": "jshint --exclude node_modules .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdrianKrebs/facebook-chatbot-tutorial.git"
+  },
+  "license": "MIT",
+  "author": "Adrian Krebs",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "config": "^1.20.4",
+    "express": "^4.13.4",
+    "latest-version": "^2.0.0",
+    "pg": "6.4.0",
+    "request": "^2.72.0"
+  },
+  "engines": {
+    "node": "~4.1.2"
+  }
+}

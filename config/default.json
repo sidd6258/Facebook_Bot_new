@@ -1,0 +1,7 @@
+{
+    "appSecret": "417e8a724b0ea372a0ea34842af1fefc",
+    "pageAccessToken": "EAAKlIPPex5MBABDyqejY67RoqkYdnscDsvGDVMASs678xb6W0YAGpZCzBgWW9lvdWHZA9V7gDXiFblO4Si4R0F0XyfFQ83FI4b7CR8x6jyxIt62OZBMlB6Lm2AbGxNy7ei2ZAkfcKN0h5TEWpsqyQK3bbpBoxS8Klp60ZAXUHONZAPan4dbcnR",
+    "validationToken": "sidd6258",
+    "serverURL": "https://glacial-beach-22253.herokuapp.com/webhook",
+    "databaseUrl": "postgres://jnscjmowlpdojr:bc73a4a5032d9d32749d148b769cccfa438edd50288b9e28a0acc9a31e9eafdb@ec2-174-129-37-15.compute-1.amazonaws.com:5432/d7du4n9ivn6quh"
+}
